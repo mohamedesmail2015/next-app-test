@@ -5,8 +5,8 @@
 
 .nav .container {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
 }
 
 .nav .container .logo {
@@ -15,15 +15,20 @@
   font-weight: bold;
   letter-spacing: 5px;
 }
-
-.nav .container .header {
-  font-size: 16px;
+.nav .container .logo:hover {
+  color: #1570b6;
+  font-size: 33px;
   font-weight: bold;
-  padding: 10px;
-  text-align: center;
+  letter-spacing: 5px;
 }
 
-.nav .container .header a {
+.nav .container .links {
+  font-size: 16px;
+  font-weight: bold;
+  margin: auto 0;
+}
+
+.nav .container .links a {
   margin-left: 20px;
   color: white;
 }
