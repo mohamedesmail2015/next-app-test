@@ -1,0 +1,29 @@
+.nav {
+  padding: 10px;
+  background-color: #181c26;
+}
+
+.nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav .container .logo {
+  color: #1570b6;
+  font-size: 33px;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.nav .container .header {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav .container .header a {
+  margin-left: 20px;
+  color: white;
+}
