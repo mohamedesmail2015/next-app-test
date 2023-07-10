@@ -21,6 +21,13 @@ export default function Home({ products }) {
       <>
         <Container>
           <h1>Home Page</h1>
+          <h1>Home Page</h1>
+          <h1>Home Page</h1>
+          <h1>Home Page</h1>
+          <h1>Home Page</h1>
+          <h1>Home Page</h1>
+          <h1>Home Page</h1>
+          <h1>Home Page</h1>
         </Container>
       </>
     </>
